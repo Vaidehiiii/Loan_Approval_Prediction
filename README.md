@@ -81,11 +81,3 @@ test_data = pd.read_csv('https://raw.githubusercontent.com/dphi-official/Dataset
 ```
 Here the target column is deliberately not there as you need to predict it.
 
-
-# Author 
-
-[Ayoub Berdeddouch](https://github.com/ayoub-berdeddouch)
-
-# Licence 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 2020
